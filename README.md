@@ -3,7 +3,7 @@
 - 😄 Pronouns: he/him
 - 🔭 I’m currently working on Discord bots, some websites and [create-zendesk-app](https://github.com/lowqualityrkomi/create-zendesk-app) command
 - 🤔 I’m looking for help to improve [create-zendesk-app](https://github.com/lowqualityrkomi/create-zendesk-app) command
-- 📫 How to reach me: see [portfolio website](https://mirkocasoni.it)
+- 📫 How to reach me: see my [portfolio](https://mirkocasoni.it)
 
 
 <!--
